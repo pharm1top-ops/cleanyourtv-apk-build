@@ -1,0 +1,22 @@
+{
+  "created": "2026-10-21T19:05:18+0300",
+  "home": "com.google.android.tvlauncher/.MainActivity",
+  "host": "192.168.0.6",
+  "list": "C:\\Users\\Aru\\cleanyourtv-main\\extra2.txt",
+  "packages": {
+    "com.google.android.tvlauncher": "enabled",
+    "com.google.android.videos": "enabled",
+    "com.google.android.youtube.tvmusic": "enabled",
+    "com.mitv.milinkservice": "enabled",
+    "com.mitv.tvhome.mitvplus": "enabled",
+    "com.mitv.videoplayer": "enabled",
+    "com.xiaomi.mitv.smartshare": "enabled",
+    "com.xiaomi.wfdsinkhelperservice": "enabled"
+  },
+  "settings": {
+    "animator_duration_scale": "null",
+    "transition_animation_scale": "1.0",
+    "window_animation_scale": "1.0"
+  },
+  "version": 1
+}

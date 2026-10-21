@@ -1,0 +1,7 @@
+com.mitv.tvhome.mitvplus
+com.mitv.milinkservice
+com.xiaomi.mitv.smartshare
+com.xiaomi.wfdsinkhelperservice
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.mitv.videoplayer
